@@ -1,4 +1,4 @@
-# Shielding Federated Learning: Defense Against Data Poisoning
+# Shielding Federated Learning: Defense Against Data Poisoning attack.
 
 ## Overview
 
